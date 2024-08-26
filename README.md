@@ -1,4 +1,10 @@
-Helpers to automatically generate markdown README for display on GitHub.
+Helpers to automatically generate markdown README for display on GitHub --
+Erin style!
+
+This is effectively the same project as
+[https://github.com/bowmnath/readme-generator](https://github.com/bowmnath/readme-generator),
+but designed for a different professor who uses a different format for their
+calendar.
 
 Once "installed" in your course repo,
 you can update your `README.md` as follows:
